@@ -1,0 +1,10 @@
+﻿namespace SA_Programacao.script.Personagem.Sprits
+{
+    using System.Collections.Generic;    
+    class SpritMenina : Abs_Sprit
+    {
+        public SpritMenina() =>
+            sprit = new List<string> { };
+    }
+}
+

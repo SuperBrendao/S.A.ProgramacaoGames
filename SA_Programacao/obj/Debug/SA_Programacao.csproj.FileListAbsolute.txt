@@ -1,0 +1,7 @@
+C:\Users\odair\source\repos\SA_Programacao\SA_Programacao\obj\Debug\SA_Programacao.csproj.AssemblyReference.cache
+C:\Users\odair\source\repos\SA_Programacao\SA_Programacao\obj\Debug\SA_Programacao.csproj.CoreCompileInputs.cache
+C:\Users\odair\source\repos\SA_Programacao\SA_Programacao\bin\Debug\SA_Programacao.exe.config
+C:\Users\odair\source\repos\SA_Programacao\SA_Programacao\bin\Debug\SA_Programacao.exe
+C:\Users\odair\source\repos\SA_Programacao\SA_Programacao\bin\Debug\SA_Programacao.pdb
+C:\Users\odair\source\repos\SA_Programacao\SA_Programacao\obj\Debug\SA_Programacao.exe
+C:\Users\odair\source\repos\SA_Programacao\SA_Programacao\obj\Debug\SA_Programacao.pdb
