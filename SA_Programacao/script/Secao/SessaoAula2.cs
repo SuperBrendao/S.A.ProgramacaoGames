@@ -52,7 +52,7 @@
                 //Mensagem
                 System.Console.WriteLine("O que o " + protagonista.nome + " acha sobre isso?");
                 System.Console.WriteLine("1 - Gostou de ajudar");
-                System.Console.WriteLine("2 - Nao Gostou de ajudar");
+                System.Console.WriteLine("2 - Nao Gostou de ajudar\n");
 
                 //Entrada
                 entrada = SA_Programacao.script.TratamentoDeTexto.Texto.FiltroDeEntrada(new string[] { "1", "2" });
@@ -88,7 +88,7 @@
                 //Mensagem
                 System.Console.WriteLine("O que o " + protagonista.nome + " vai fazer?");
                 System.Console.WriteLine("1 - chutar o representante");
-                System.Console.WriteLine("2 - fazer o gol");
+                System.Console.WriteLine("2 - fazer o gol\n");
 
                 //Entrada
                 entrada = SA_Programacao.script.TratamentoDeTexto.Texto.FiltroDeEntrada(new string[] { "1", "2" });

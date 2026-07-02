@@ -74,6 +74,7 @@
     <Compile Include="script\Secao\SessaoFinal.cs" />
     <Compile Include="script\Secao\SessaoInicio.cs" />
     <Compile Include="script\Secao\SessaoIntervalo.cs" />
+    <Compile Include="script\TelaInicio\Titulo.cs" />
     <Compile Include="script\TratamentoDeTexto\Texto.cs" />
   </ItemGroup>
   <ItemGroup>

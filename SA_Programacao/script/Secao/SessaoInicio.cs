@@ -29,9 +29,9 @@
             do
             {
                 //Mensagem
-                System.Console.WriteLine("Escolha uma das opções a seguir:");
+                System.Console.WriteLine("o que " +protagonista.nome+ " deve fazer:?");
                 System.Console.WriteLine("1 - ajudar a veia");
-                System.Console.WriteLine("2 - nao ajudar a veia");
+                System.Console.WriteLine("2 - nao ajudar a veia\n");
 
                 //Entrada
                 entrada = SA_Programacao.script.TratamentoDeTexto.Texto.FiltroDeEntrada(new string[] { "1", "2" });

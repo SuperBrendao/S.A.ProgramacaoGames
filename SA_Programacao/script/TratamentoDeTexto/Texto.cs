@@ -28,8 +28,6 @@ namespace SA_Programacao.script.TratamentoDeTexto
             System.Console.ForegroundColor = System.ConsoleColor.Yellow;
             Escrever("\nAperte qualquer tecla para continuar");
 
-          
-
             System.Console.ReadKey(true);
             System.Console.ResetColor();
             System.Console.Clear();
