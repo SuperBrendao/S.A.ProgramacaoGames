@@ -57,7 +57,7 @@
     <Compile Include="script\Personagem\Sprits\SpritMenina.cs" />
     <Compile Include="script\Personagem\Sprits\SpritProtagonista.cs" />
     <Compile Include="script\Personagem\Sprits\SpritRepresentante.cs" />
-    <Compile Include="script\Secao\Abs_Sessao.cs" />
+    <Compile Include="script\Secao\Abs_Secao.cs" />
     <Compile Include="script\Secao\Escolher_Sessao.cs" />
     <Compile Include="script\Secao\SessaoAula1.cs" />
     <Compile Include="script\Secao\SessaoAula2.cs" />
@@ -65,6 +65,7 @@
     <Compile Include="script\Secao\SessaoAula4.cs" />
     <Compile Include="script\Secao\SessaoFinal.cs" />
     <Compile Include="script\Secao\SessaoInicio.cs" />
+    <Compile Include="script\Secao\SessaoIntervalo.cs" />
     <Compile Include="script\TratamentoDeTexto\Texto.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,7 +6,7 @@ namespace SA_Programacao.script
     public class PersonagemRepresentante : Abs_Personagem
     {
         public PersonagemRepresentante() :
-           base("Pedro", new MensagemRepresentante(), new SpritRepresentante())
+           base("Philip", new MensagemRepresentante(), new SpritRepresentante())
         { }
     }
 }

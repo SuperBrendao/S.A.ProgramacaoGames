@@ -5,7 +5,7 @@
     public class PersonagemMenina : Abs_Personagem
     {
         public PersonagemMenina() :
-           base("Maria", new MensagemMenina(), new SpritMenina())
+           base("kamilly", new MensagemMenina(), new SpritMenina())
         { }
     }
 }

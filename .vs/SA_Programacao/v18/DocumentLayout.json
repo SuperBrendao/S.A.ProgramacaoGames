@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\personagem\\mensagem\\mensagemprotagonista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\personagem\\mensagem\\mensagemprotagonista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\secao\\escolher_sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\secao\\escolher_sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\secao\\sessaoaula1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\secao\\sessaoaula1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\secao\\sessaoaula2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\secao\\sessaoaula2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\secao\\sessaoaula3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\secao\\sessaoaula3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\secao\\sessaofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\secao\\sessaofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\secao\\sessaoinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\secao\\sessaoinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\secao\\sessaoaula4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\secao\\sessaoaula4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\tratamentodetexto\\texto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\tratamentodetexto\\texto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\personagem\\personagemprotagonista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\personagem\\personagemprotagonista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\secao\\sessaointervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\secao\\sessaointervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\personagem\\mensagem\\mensagemrepresentante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\personagem\\mensagem\\mensagemrepresentante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\personagem\\mensagem\\mensagemmenina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\personagem\\mensagem\\mensagemmenina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|c:\\users\\senai_aluno1\\desktop\\projeto\\s.a.programacaogames\\sa_programacao\\script\\secao\\abs_secao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6916930D-B90A-44EB-ABE0-C8FDBA728343}|SA_Programacao\\SA_Programacao.csproj|solutionrelative:sa_programacao\\script\\secao\\abs_secao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessaoAula2.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoAula2.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Secao\\SessaoAula2.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoAula2.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Secao\\SessaoAula2.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwHEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:04:44.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\Program.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\Program.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\Program.cs",
+              "RelativeToolTip": "SA_Programacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:24:37.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Texto.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\TratamentoDeTexto\\Texto.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\TratamentoDeTexto\\Texto.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\TratamentoDeTexto\\Texto.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\TratamentoDeTexto\\Texto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T11:39:47.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessaoFinal.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoFinal.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Secao\\SessaoFinal.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoFinal.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Secao\\SessaoFinal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:10:56.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessaoAula4.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoAula4.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Secao\\SessaoAula4.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoAula4.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Secao\\SessaoAula4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:44:40.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessaoAula3.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoAula3.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Secao\\SessaoAula3.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoAula3.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Secao\\SessaoAula3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:19:41.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessaoInicio.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoInicio.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Secao\\SessaoInicio.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoInicio.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Secao\\SessaoInicio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T11:28:09.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MensagemProtagonista.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Personagem\\Mensagem\\MensagemProtagonista.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Personagem\\Mensagem\\MensagemProtagonista.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Personagem\\Mensagem\\MensagemProtagonista.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Personagem\\Mensagem\\MensagemProtagonista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T11:42:24.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessaoAula1.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoAula1.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Secao\\SessaoAula1.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoAula1.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Secao\\SessaoAula1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:00:48.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Escolher_Sessao.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\Escolher_Sessao.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Secao\\Escolher_Sessao.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\Escolher_Sessao.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Secao\\Escolher_Sessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:22:37.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonagemProtagonista.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Personagem\\PersonagemProtagonista.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Personagem\\PersonagemProtagonista.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Personagem\\PersonagemProtagonista.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Personagem\\PersonagemProtagonista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:07:08.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SessaoIntervalo.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoIntervalo.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Secao\\SessaoIntervalo.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\SessaoIntervalo.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Secao\\SessaoIntervalo.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:08:28.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MensagemRepresentante.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Personagem\\Mensagem\\MensagemRepresentante.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Personagem\\Mensagem\\MensagemRepresentante.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Personagem\\Mensagem\\MensagemRepresentante.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Personagem\\Mensagem\\MensagemRepresentante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:58:53.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MensagemMenina.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Personagem\\Mensagem\\MensagemMenina.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Personagem\\Mensagem\\MensagemMenina.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Personagem\\Mensagem\\MensagemMenina.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Personagem\\Mensagem\\MensagemMenina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:25:00.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Abs_Secao.cs",
+              "DocumentMoniker": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\Abs_Secao.cs",
+              "RelativeDocumentMoniker": "SA_Programacao\\script\\Secao\\Abs_Secao.cs",
+              "ToolTip": "C:\\Users\\senai_aluno1\\Desktop\\projeto\\S.A.ProgramacaoGames\\SA_Programacao\\script\\Secao\\Abs_Secao.cs",
+              "RelativeToolTip": "SA_Programacao\\script\\Secao\\Abs_Secao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T11:51:48.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -25,6 +25,11 @@
                     return new SecaoAula1(protagonista);
                 case "aula2":
                     return new SecaoAula2(protagonista);
+
+
+                case "intervalo":
+                    return new SessaoIntervalo(protagonista);
+
                 case "aula3":
                     return new SecaoAula3(protagonista);
                 case "aula4":

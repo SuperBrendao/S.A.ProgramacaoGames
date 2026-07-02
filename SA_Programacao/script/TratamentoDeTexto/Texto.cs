@@ -1,8 +1,11 @@
-﻿namespace SA_Programacao.script.TratamentoDeTexto
+﻿using System;
+using System.Threading;
+
+namespace SA_Programacao.script.TratamentoDeTexto
 {
     public static class Texto
     {
-        static int tamanhoMax = 50;
+        static int tamanhoMax = 80;
 
         private static void Escrever(string texto) => 
             System.Console.WriteLine(texto);
@@ -24,9 +27,16 @@
         {
             var Entrada = System.Console.ReadLine();
 
-            foreach (var item in filtro) 
-                if (Entrada.ToLower() == item) 
+            foreach (var item in filtro)
+                if (Entrada.ToLower() == item) {
+                    Console.Clear();
                     return item;
+                    }
+            
+            Console.Clear();
+            Thread.Sleep(1000);
+            Mostrar("Por favor digite aquilo que foi pedido");
+            Console.Clear();
 
             return null;
         }
