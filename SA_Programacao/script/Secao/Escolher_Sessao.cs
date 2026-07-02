@@ -1,12 +1,11 @@
 ﻿namespace SA_Programacao.script.Secao
 {
     using SA_Programacao.script.Personagem;
+
     public class Escolher_Secao
     {
         private  PersonagemProtagonista protagonista;
         
-
-
         public Escolher_Secao(PersonagemProtagonista protagonista) =>
             this.protagonista = protagonista;
 
@@ -25,11 +24,8 @@
                     return new SecaoAula1(protagonista);
                 case "aula2":
                     return new SecaoAula2(protagonista);
-
-
                 case "intervalo":
                     return new SessaoIntervalo(protagonista);
-
                 case "aula3":
                     return new SecaoAula3(protagonista);
                 case "aula4":

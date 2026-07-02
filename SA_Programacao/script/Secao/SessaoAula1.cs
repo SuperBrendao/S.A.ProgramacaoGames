@@ -1,15 +1,17 @@
 ﻿
 namespace SA_Programacao.script.Secao
 {
-    using SA_Programacao.script.Personagem;
-    using SA_Programacao.script.TratamentoDeTexto;
+    using SA_Programacao.script.Personagem; 
+
     public class SecaoAula1 : Abs_Secao
     {
-        public SecaoAula1(PersonagemProtagonista protagonista) : base(protagonista) { }
+        public SecaoAula1(PersonagemProtagonista protagonista) :
+            base(protagonista, new SA_Programacao.script.Secao.Imagens.CenarioAula1()) 
+        { }
         public override void Iniciar() 
         {
-            Texto.Mostrar("Após recusar ajudar a senhora Hendriks chega no Primeiro horário");
-            Texto.Mostrar("O professor explica sobre álgebra enquanto isso Hendriks analisa cada aluno da turma e pensa internamente");
+            TextoS("Após recusar ajudar a senhora Hendriks chega no Primeiro horário");
+            TextoS("O professor explica sobre álgebra enquanto isso Hendriks analisa cada aluno da turma e pensa internamente");
             protagonista.MostrarMensagem(3);
 
 

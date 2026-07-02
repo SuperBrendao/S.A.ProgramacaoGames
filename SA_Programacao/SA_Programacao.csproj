@@ -59,6 +59,14 @@
     <Compile Include="script\Personagem\Sprits\SpritRepresentante.cs" />
     <Compile Include="script\Secao\Abs_Secao.cs" />
     <Compile Include="script\Secao\Escolher_Sessao.cs" />
+    <Compile Include="script\Secao\Imagens\Abs_ImagemCenario.cs" />
+    <Compile Include="script\Secao\Imagens\CenarioAula1.cs" />
+    <Compile Include="script\Secao\Imagens\CenarioAula2.cs" />
+    <Compile Include="script\Secao\Imagens\CenarioAula3.cs" />
+    <Compile Include="script\Secao\Imagens\CenarioFinal.cs" />
+    <Compile Include="script\Secao\Imagens\CenarioMetro.cs" />
+    <Compile Include="script\Secao\Imagens\CenarioVasio.cs" />
+    <Compile Include="script\Secao\Imagens\EscolhaImagemCenario.cs" />
     <Compile Include="script\Secao\SessaoAula1.cs" />
     <Compile Include="script\Secao\SessaoAula2.cs" />
     <Compile Include="script\Secao\SessaoAula3.cs" />

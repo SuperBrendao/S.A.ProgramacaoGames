@@ -5,15 +5,31 @@ namespace SA_Programacao.script.TratamentoDeTexto
 {
     public static class Texto
     {
-        static int tamanhoMax = 80;
+        private static int tamanhoMax = 100;
+        private static  int TempoDeExecução = 20;
 
-        private static void Escrever(string texto) => 
-            System.Console.WriteLine(texto);
+        private static void Escrever(string texto,int time=0) 
+        {
+
+            if (time == 0) { System.Console.Write(texto); return; }
+            
+                for (int indice = 0; indice < texto.Length; indice++)
+                {
+                    Thread.Sleep(time);
+                    System.Console.Write(texto[indice]);
+                }
+                System.Console.WriteLine("\n");
+        }
+
+
 
         private static void MensagemEnter() 
         {
             System.Console.ForegroundColor = System.ConsoleColor.Yellow;
             Escrever("\nAperte qualquer tecla para continuar");
+
+          
+
             System.Console.ReadKey(true);
             System.Console.ResetColor();
             System.Console.Clear();
@@ -34,7 +50,6 @@ namespace SA_Programacao.script.TratamentoDeTexto
                     }
             
             Console.Clear();
-            Thread.Sleep(1000);
             Mostrar("Por favor digite aquilo que foi pedido");
             Console.Clear();
 
@@ -53,8 +68,9 @@ namespace SA_Programacao.script.TratamentoDeTexto
             for (int indice = 0; indice < tamanhoMax; indice++)
                 MolturaDaMensagem += "=";
 
-            MolturaDaMensagem += "\n" + texto;
-            Escrever(MolturaDaMensagem);
+          
+            Escrever(MolturaDaMensagem+"\n");
+            Escrever(texto,TempoDeExecução);
             MensagemEnter();
         }
 
@@ -79,9 +95,10 @@ namespace SA_Programacao.script.TratamentoDeTexto
                 MolturaDaMensagem += "=";
 
             MolturaDoNome = MolturaDoNome + "\n" + nome + "\n" + MolturaDoNome; 
-            MolturaDaMensagem += "\n" + texto;
+            MolturaDaMensagem += "\n";
 
             Escrever(MolturaDoNome+MolturaDaMensagem);
+            Escrever(texto, TempoDeExecução);
             MensagemEnter();
         }
     }

@@ -12,3 +12,10 @@ C:\Users\senai_aluno1\Desktop\projeto\S.A.ProgramacaoGames\SA_Programacao\obj\De
 C:\Users\senai_aluno1\Desktop\projeto\S.A.ProgramacaoGames\SA_Programacao\obj\Debug\SA_Programacao.csproj.CoreCompileInputs.cache
 C:\Users\senai_aluno1\Desktop\projeto\S.A.ProgramacaoGames\SA_Programacao\obj\Debug\SA_Programacao.exe
 C:\Users\senai_aluno1\Desktop\projeto\S.A.ProgramacaoGames\SA_Programacao\obj\Debug\SA_Programacao.pdb
+C:\Users\odair\Projeto_Dev\VisualStudio\SA_Programacao\SA_Programacao\obj\Debug\SA_Programacao.csproj.AssemblyReference.cache
+C:\Users\odair\Projeto_Dev\VisualStudio\SA_Programacao\SA_Programacao\obj\Debug\SA_Programacao.csproj.CoreCompileInputs.cache
+C:\Users\odair\Projeto_Dev\VisualStudio\SA_Programacao\SA_Programacao\obj\Debug\SA_Programacao.exe
+C:\Users\odair\Projeto_Dev\VisualStudio\SA_Programacao\SA_Programacao\obj\Debug\SA_Programacao.pdb
+C:\Users\odair\Projeto_Dev\VisualStudio\SA_Programacao\SA_Programacao\bin\Debug\SA_Programacao.exe.config
+C:\Users\odair\Projeto_Dev\VisualStudio\SA_Programacao\SA_Programacao\bin\Debug\SA_Programacao.exe
+C:\Users\odair\Projeto_Dev\VisualStudio\SA_Programacao\SA_Programacao\bin\Debug\SA_Programacao.pdb

@@ -7,7 +7,7 @@
     {
         static void Main(string[] args)
         {
-            Escolher_Secao escolher_Secao = new Escolher_Secao(new PersonagemProtagonista("Hendriks"));
+             Escolher_Secao escolher_Secao = new Escolher_Secao(new PersonagemProtagonista("Hendriks"));
             escolher_Secao.IniciarSecao("inicio");
         }
     }

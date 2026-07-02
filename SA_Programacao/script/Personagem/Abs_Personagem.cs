@@ -16,8 +16,11 @@
             this.Sprit = Sprit;
         }
 
-        public void MostrarMensagem(int indice) =>
+        public void MostrarMensagem(int indice)
+        {
+            MostarSprit(0);
             Texto.Mostrar(this.nome, Mensagem.MostrarMensagem(indice));
+        }
            
 
         public void MostarSprit(int indice) =>
