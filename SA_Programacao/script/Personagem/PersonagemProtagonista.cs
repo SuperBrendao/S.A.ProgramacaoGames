@@ -20,7 +20,7 @@
         }
 
         public void LerLivro() => LeuLivro = true;
-        public void ModificarKarma(int valor) => Karma = valor; 
+        public void ModificarKarma(int valor) => Karma += valor; 
         public void ChegouAtrasado () => chegouatrasado = true;
         public void Chutou () => chutou = true;
     }

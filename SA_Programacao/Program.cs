@@ -12,7 +12,7 @@
                 SA_Programacao.script.TelaInicio.Titulo.Inicio();
 
                 Escolher_Secao escolher_Secao = new Escolher_Secao(new PersonagemProtagonista("Hendriks"));
-                escolher_Secao.IniciarSecao("inicio");
+                escolher_Secao.IniciarSecao("final");
                 escolher_Secao = null;
 
             } while (true);
